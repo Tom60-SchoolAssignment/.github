@@ -1,6 +1,7 @@
-# Tom60 - Shool assignement
+# Tom60 - School assignment
 
-You will find here most of my computer science school assignement.
+You will find here most of my computer science school assignment.
+Vous trouverez ici la plupart de mes projets en informatique.
 
 ## School
 
